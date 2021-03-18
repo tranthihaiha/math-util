@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Welcom to Math-util reponsitory. This repo offers various math method used in your projects as the helper ones.
 
 ### _You will find in this repo the following stuff:_
@@ -11,8 +11,3 @@
 [Facebook](https://www.facebook.com/profile.php?id=100013788103221)
 [Email](mailto: tranthihaiha660@gmail.com)
 #### © 2021 GitHub, Inc.
-=======
-## WELCOM TO Math-util reponsitory. this repo offers various math method usrd in your projects as the helper ones.
-
-### You will find in this repo
->>>>>>> 4b6c8ba52a9cc2cb718b1b98d1424a686e5166c4
